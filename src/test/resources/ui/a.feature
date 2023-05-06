@@ -3,7 +3,7 @@ Feature: A feature
   Background:
     Given I am on the homepage
 
-  @smoke
+  @rahim
   Scenario: A feature file scenario
 
     When I navigate to signup page and enter valid credentials
